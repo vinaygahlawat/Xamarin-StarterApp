@@ -1,0 +1,3 @@
+﻿<Properties StartupItem="iOS/KXStarterApp.iOS.csproj">
+  <MonoDevelop.Ide.ItemProperties.KXStarterApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8484E834-B5A1-4943-B5BA-30F1C977D44B" />
+</Properties>
