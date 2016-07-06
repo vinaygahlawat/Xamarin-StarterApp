@@ -1,3 +1,4 @@
-﻿<Properties StartupItem="iOS/KXStarterApp.iOS.csproj" NuGet.AddPackagesDialog.IncludePrerelease="True">
+﻿<Properties StartupItem="Droid/KXStarterApp.Droid.csproj" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.KXStarterApp.Droid PreferredExecutionTarget="Android.Nexus10" />
   <MonoDevelop.Ide.ItemProperties.KXStarterApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8484E834-B5A1-4943-B5BA-30F1C977D44B" />
 </Properties>
